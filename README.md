@@ -10,7 +10,6 @@ Student and freelance web developer building responsive websites for small busin
 ## Projects
 - [Mandi Manzil](https://mandi-manzil.vercel.app): multi-branch restaurant website
 - [UID Construct](https://uidconstruct.vercel.app)
-- [Mintabs](https://mintabs.vercel.app)
 
 ## Currently learning
 JavaScript fundamentals
